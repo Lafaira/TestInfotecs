@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project\\NewProject2\\TestInfotecs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FFAFA4A1-019C-4864-A3F6-46542A78174E}|TestInfotecs\\TestInfotecs.csproj|d:\\project\\newproject2\\testinfotecs\\testinfotecs\\servises\\csvreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFAFA4A1-019C-4864-A3F6-46542A78174E}|TestInfotecs\\TestInfotecs.csproj|solutionrelative:testinfotecs\\servises\\csvreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFAFA4A1-019C-4864-A3F6-46542A78174E}|TestInfotecs\\TestInfotecs.csproj|d:\\project\\newproject2\\testinfotecs\\testinfotecs\\models\\values.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFAFA4A1-019C-4864-A3F6-46542A78174E}|TestInfotecs\\TestInfotecs.csproj|solutionrelative:testinfotecs\\models\\values.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFAFA4A1-019C-4864-A3F6-46542A78174E}|TestInfotecs\\TestInfotecs.csproj|d:\\project\\newproject2\\testinfotecs\\testinfotecs\\models\\csvmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFAFA4A1-019C-4864-A3F6-46542A78174E}|TestInfotecs\\TestInfotecs.csproj|solutionrelative:testinfotecs\\models\\csvmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFAFA4A1-019C-4864-A3F6-46542A78174E}|TestInfotecs\\TestInfotecs.csproj|d:\\project\\newproject2\\testinfotecs\\testinfotecs\\validators\\validation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFAFA4A1-019C-4864-A3F6-46542A78174E}|TestInfotecs\\TestInfotecs.csproj|solutionrelative:testinfotecs\\validators\\validation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFAFA4A1-019C-4864-A3F6-46542A78174E}|TestInfotecs\\TestInfotecs.csproj|d:\\project\\newproject2\\testinfotecs\\testinfotecs\\controllers\\timescalecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFAFA4A1-019C-4864-A3F6-46542A78174E}|TestInfotecs\\TestInfotecs.csproj|solutionrelative:testinfotecs\\controllers\\timescalecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{746DDA64-FE26-4F96-8246-8A64F8EA8331}|Tests\\Tests.csproj|d:\\project\\newproject2\\testinfotecs\\tests\\validationtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{746DDA64-FE26-4F96-8246-8A64F8EA8331}|Tests\\Tests.csproj|solutionrelative:tests\\validationtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{746DDA64-FE26-4F96-8246-8A64F8EA8331}|Tests\\Tests.csproj|d:\\project\\newproject2\\testinfotecs\\tests\\csvreadtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{746DDA64-FE26-4F96-8246-8A64F8EA8331}|Tests\\Tests.csproj|solutionrelative:tests\\csvreadtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{746DDA64-FE26-4F96-8246-8A64F8EA8331}|Tests\\Tests.csproj|d:\\project\\newproject2\\testinfotecs\\tests\\filtertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{746DDA64-FE26-4F96-8246-8A64F8EA8331}|Tests\\Tests.csproj|solutionrelative:tests\\filtertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFAFA4A1-019C-4864-A3F6-46542A78174E}|TestInfotecs\\TestInfotecs.csproj|d:\\project\\newproject2\\testinfotecs\\testinfotecs\\models\\results.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFAFA4A1-019C-4864-A3F6-46542A78174E}|TestInfotecs\\TestInfotecs.csproj|solutionrelative:testinfotecs\\models\\results.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Results.cs",
+              "DocumentMoniker": "D:\\Project\\NewProject2\\TestInfotecs\\TestInfotecs\\Models\\Results.cs",
+              "RelativeDocumentMoniker": "TestInfotecs\\Models\\Results.cs",
+              "ToolTip": "D:\\Project\\NewProject2\\TestInfotecs\\TestInfotecs\\Models\\Results.cs",
+              "RelativeToolTip": "TestInfotecs\\Models\\Results.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T18:53:48.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FilterTest.cs",
+              "DocumentMoniker": "D:\\Project\\NewProject2\\TestInfotecs\\Tests\\FilterTest.cs",
+              "RelativeDocumentMoniker": "Tests\\FilterTest.cs",
+              "ToolTip": "D:\\Project\\NewProject2\\TestInfotecs\\Tests\\FilterTest.cs",
+              "RelativeToolTip": "Tests\\FilterTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T15:11:16.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CsvReadTest.cs",
+              "DocumentMoniker": "D:\\Project\\NewProject2\\TestInfotecs\\Tests\\CsvReadTest.cs",
+              "RelativeDocumentMoniker": "Tests\\CsvReadTest.cs",
+              "ToolTip": "D:\\Project\\NewProject2\\TestInfotecs\\Tests\\CsvReadTest.cs",
+              "RelativeToolTip": "Tests\\CsvReadTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T11:20:04.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ValidationTest.cs",
+              "DocumentMoniker": "D:\\Project\\NewProject2\\TestInfotecs\\Tests\\ValidationTest.cs",
+              "RelativeDocumentMoniker": "Tests\\ValidationTest.cs",
+              "ToolTip": "D:\\Project\\NewProject2\\TestInfotecs\\Tests\\ValidationTest.cs",
+              "RelativeToolTip": "Tests\\ValidationTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T07:43:41.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CsvReader.cs",
+              "DocumentMoniker": "D:\\Project\\NewProject2\\TestInfotecs\\TestInfotecs\\Servises\\CsvReader.cs",
+              "RelativeDocumentMoniker": "TestInfotecs\\Servises\\CsvReader.cs",
+              "ToolTip": "D:\\Project\\NewProject2\\TestInfotecs\\TestInfotecs\\Servises\\CsvReader.cs",
+              "RelativeToolTip": "TestInfotecs\\Servises\\CsvReader.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwBIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T17:06:43.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TimescaleController.cs",
+              "DocumentMoniker": "D:\\Project\\NewProject2\\TestInfotecs\\TestInfotecs\\Controllers\\TimescaleController.cs",
+              "RelativeDocumentMoniker": "TestInfotecs\\Controllers\\TimescaleController.cs",
+              "ToolTip": "D:\\Project\\NewProject2\\TestInfotecs\\TestInfotecs\\Controllers\\TimescaleController.cs",
+              "RelativeToolTip": "TestInfotecs\\Controllers\\TimescaleController.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAwwFAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T10:50:52.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Validation.cs",
+              "DocumentMoniker": "D:\\Project\\NewProject2\\TestInfotecs\\TestInfotecs\\Validators\\Validation.cs",
+              "RelativeDocumentMoniker": "TestInfotecs\\Validators\\Validation.cs",
+              "ToolTip": "D:\\Project\\NewProject2\\TestInfotecs\\TestInfotecs\\Validators\\Validation.cs",
+              "RelativeToolTip": "TestInfotecs\\Validators\\Validation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T09:43:32.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CSVModel.cs",
+              "DocumentMoniker": "D:\\Project\\NewProject2\\TestInfotecs\\TestInfotecs\\Models\\CSVModel.cs",
+              "RelativeDocumentMoniker": "TestInfotecs\\Models\\CSVModel.cs",
+              "ToolTip": "D:\\Project\\NewProject2\\TestInfotecs\\TestInfotecs\\Models\\CSVModel.cs",
+              "RelativeToolTip": "TestInfotecs\\Models\\CSVModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T10:10:09.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Values.cs",
+              "DocumentMoniker": "D:\\Project\\NewProject2\\TestInfotecs\\TestInfotecs\\Models\\Values.cs",
+              "RelativeDocumentMoniker": "TestInfotecs\\Models\\Values.cs",
+              "ToolTip": "D:\\Project\\NewProject2\\TestInfotecs\\TestInfotecs\\Models\\Values.cs",
+              "RelativeToolTip": "TestInfotecs\\Models\\Values.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T09:44:15.454Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
