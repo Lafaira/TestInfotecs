@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Project\\NewProject2\\TestInfotecs\\TestInfotecs\\TestInfotecs.csproj": {}
+    "D:\\GitHub_repos\\TestInfotecs\\TestInfotecs\\TestInfotecs.csproj": {}
   },
   "projects": {
-    "D:\\Project\\NewProject2\\TestInfotecs\\TestInfotecs\\TestInfotecs.csproj": {
+    "D:\\GitHub_repos\\TestInfotecs\\TestInfotecs\\TestInfotecs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Project\\NewProject2\\TestInfotecs\\TestInfotecs\\TestInfotecs.csproj",
+        "projectUniqueName": "D:\\GitHub_repos\\TestInfotecs\\TestInfotecs\\TestInfotecs.csproj",
         "projectName": "TestInfotecs",
-        "projectPath": "D:\\Project\\NewProject2\\TestInfotecs\\TestInfotecs\\TestInfotecs.csproj",
+        "projectPath": "D:\\GitHub_repos\\TestInfotecs\\TestInfotecs\\TestInfotecs.csproj",
         "packagesPath": "C:\\Users\\Anny\\.nuget\\packages\\",
-        "outputPath": "D:\\Project\\NewProject2\\TestInfotecs\\TestInfotecs\\obj\\",
+        "outputPath": "D:\\GitHub_repos\\TestInfotecs\\TestInfotecs\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

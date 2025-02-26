@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/sZlYF3wSGM=",
+  "dgSpecHash": "YyWfnqCWVsk=",
   "success": true,
-  "projectFilePath": "D:\\Project\\NewProject2\\TestInfotecs\\TestInfotecs\\TestInfotecs.csproj",
+  "projectFilePath": "D:\\GitHub_repos\\TestInfotecs\\TestInfotecs\\TestInfotecs.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Anny\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
     "C:\\Users\\Anny\\.nuget\\packages\\csvhelper\\33.0.1\\csvhelper.33.0.1.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "P5JbmZjd/Ts=",
+  "dgSpecHash": "YJWql1oKgBY=",
   "success": true,
-  "projectFilePath": "D:\\Project\\NewProject2\\TestInfotecs\\Tests\\Tests.csproj",
+  "projectFilePath": "D:\\GitHub_repos\\TestInfotecs\\Tests\\Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Anny\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
     "C:\\Users\\Anny\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
